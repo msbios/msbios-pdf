@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1551346801">
+  <project timestamp="1551346801">
+    <package name="MSBios\PDF">
+      <file name="/home/judzhin/Projects/_modules/msbios-pdf/src/Module.php">
+        <class name="MSBios\PDF\Module" namespace="MSBios\PDF" fullPackage="MSBios" package="MSBios">
+          <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+        </class>
+        <line num="22" type="method" name="getDir" visibility="protected" complexity="1" crap="1" count="2"/>
+        <line num="24" type="stmt" count="2"/>
+        <line num="32" type="method" name="getNamespace" visibility="protected" complexity="1" crap="1" count="1"/>
+        <line num="34" type="stmt" count="1"/>
+        <metrics loc="36" ncloc="17" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+      </file>
+    </package>
+    <metrics files="1" loc="36" ncloc="17" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+  </project>
+</coverage>
